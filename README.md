@@ -5,7 +5,7 @@ I am currently pursuing an associate degree at Borough of Manhattan Community Co
 Right now I am working on: [Schedule Creator](https://github.com/EmmanuelR21/schedule-creator) **_This project has taken a back seat as the school semester has started, but is still in development_**
 
 I'm currently learning from the following sources:
-- [boot.dev](boot.dev):
+- [boot.dev](https://www.boot.dev/):
 - [Advent of Code](https://adventofcode.com/) in C ~ [**My Repository**](https://github.com/EmmanuelR21/advent-of-code):
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book)
 <!--
