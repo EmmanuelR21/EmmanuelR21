@@ -1,6 +1,6 @@
 ### Hello, my name is Emmanuel! 👋
 
-I am currently a student, soon to receive my associate degree at the Borough of Manhattan Community College! 🙂
+I am currently a student, soon to receive my associate degree at the Borough of Manhattan Community College in 2025! 🙂
 <!--
 **EmmanuelR21/EmmanuelR21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
