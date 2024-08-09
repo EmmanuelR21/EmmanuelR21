@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello, my name is Emmanuel! 👋
 
-I am currently pursuing an associate degree at Borough of Manhattan Community College.
-
-I'm currently working on [SocialCue](https://github.com/Chimbay/SocialCueWebapp).
+I am currently a student, soon to receive my associate degree at the Borough of Manhattan Community College! 🙂
 <!--
 **EmmanuelR21/EmmanuelR21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
